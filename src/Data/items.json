@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": 1,
+      "name": "Jeep",
+      "price": 10.99,
+      "imgUrl": "/static/media/img1.b36ac82aad84457a834d.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Obele",
+      "price": 1199.5,
+      "imgUrl": "/static/media/img2.045a3593120b4186b72f.png"
+    },
+    {
+      "id": 3,
+      "name": "Golf",
+      "price": 155.05,
+      "imgUrl": "/static/media/img3.3070212fd04a3e09bb16.png"
+    },
+    {
+      "id": 4,
+      "name": "Mazda",
+      "price": 14000,
+      "imgUrl": "/static/media/img4.a0fa94e9c5b9b81a7868.png"
+    }
+    
+  ]
+
+  
+

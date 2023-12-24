@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .cart-shopping-count {
+    @apply  bg-red-600 absolute  w-6 text-center rounded-full top-2  right-24  font-bold 
+  }
+}
